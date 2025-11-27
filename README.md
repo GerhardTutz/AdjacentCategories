@@ -4,7 +4,7 @@ Tutz: Effect Structures in Ordinal Regression: the Adjacent Categories Approach
 
 Applications:
 
-Heart, HeartDispersionRegularized, happiness, feas.
+Heart, HeartDispersionRegularized, happiness, fears.
 
 Programs:
 
